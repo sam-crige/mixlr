@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.form001{
+    background-image:linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.2),rgb(0,0,0,0.3)), url(/img/Bitcoin\ image.svg);
+}
+.gender{
+    font-weight: bold;
+}
+.upload{
+    font-weight: bold;
+}
+.click{
+    border-style:none;
+}

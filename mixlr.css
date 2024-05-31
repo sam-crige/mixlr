@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-content: space-around;
+    gap: 30px;
+    color:;
+}
+.logo{
+    width: 100px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    align-content: space-between;
+    gap: 60%;
+}
+.pro{
+    font-size: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: end;
+    text-align: center;
+}
+.trial{
+    border-radius: 30px;
+    font-size: 30px;
+}
+h2{
+    font-weight: bolder;
+}
+.fea:hover{
+    color:red;
+}
+.avai{
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    text-align: center;
+}
+.os{
+    align-content: space-between;
+    gap: 50px;
+}
